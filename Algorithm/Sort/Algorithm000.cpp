@@ -190,7 +190,8 @@ int main()
 
 
     PrintArray(array, SIZE);
-
+    
+    int a = 0;
 }
 
 void Merge(int input[], int start, int half, int end, int temp[])
@@ -231,3 +232,6 @@ void Merge(int input[], int start, int half, int end, int temp[])
         input[i] = temp[tempIndex++];
     }
 }
+
+
+// 수정 확인
