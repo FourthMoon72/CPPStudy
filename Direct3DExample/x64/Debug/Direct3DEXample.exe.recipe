@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\2022Programming\Visual\Direct3DExample\x64\Debug\Direct3DEXample.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\2022Programming\Visual\Direct3DExample\x64\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2022Programming\Visual\Direct3DExample\x64\Debug\PixelShader1.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2022Programming\Visual\Direct3DExample\x64\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\2022Programming\Visual\Direct3DExample\x64\Debug\VertexShader1.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
